@@ -1,0 +1,21 @@
+{
+  "general": "General",
+  "redeem": "Canjear",
+  "manage": "Gestionar",
+  "stores": "Tiendas",
+  "drinks": "Bebidas",
+  "loyaltyTools": "Herramientas de fidelidad",
+  "bundles": "Paquetes",
+  "bankSettings": "Configuración bancaria/Pagos",
+  "signOut": "Cerrar sesión",
+  "settings": "Configuración",
+  "dashboard": "Panel de control",
+  "multiStore": "Multi-Tienda",
+  "sales": "Ventas",
+  "redemptions": "Redenciones",
+  "customers": "Clientes",
+  "stamps": "Hitos « Sellos »",
+  "stampACard": "Sellar una tarjeta",
+  "billing": "Facturación y pagos",
+  "stampsHistory": "Historial de Estampillas"
+}

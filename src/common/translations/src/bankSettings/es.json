@@ -1,0 +1,9 @@
+{
+  "bankSettings": "Configuración bancaria",
+  "transactionFees": "Explicación de las comisiones de transacción",
+  "transactionFeesDesc": "Nuestro objetivo es mantener el precio lo más bajo posible. Solo cobramos una pequeña comisión del 4% por transacción. Stripe también cobra una pequeña comisión del 1,4% + 20p por transacción. Para poner esto en perspectiva, la comisión total es de £1.56 en una transacción de £40. Todos los pagos se procesan a través de Stripe.",
+  "bankAccounts": "Tus cuentas bancarias",
+  "removeBankAccount": "Eliminar cuenta bancaria",
+  "editBankAccount": "Editar los detalles bancarios de Stripe",
+  "selectBank": "Seleccionar banco"
+}

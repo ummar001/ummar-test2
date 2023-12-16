@@ -1,0 +1,19 @@
+{
+  "orderSummary": "Résumé de la commande",
+  "datePaid": "Date de paiement",
+  "redeemed": "Utilisé",
+  "price": "Prix",
+  "fullName": "Nom complet",
+  "emailAddress": "Adresse e-mail",
+  "phoneNumber": "Numéro de téléphone",
+  "lastUsed": "Dernière utilisation",
+  "totalDrinksPurchased": "Total des boissons achetées",
+  "customerDetails": "Détails du client",
+  "orderHistory": "Historique des commandes",
+  "back": "Retour",
+  "name": "Nom",
+  "totalSpent": "Total dépensé",
+  "customers": "Clients",
+  "stampHistory": "Historique des timbres",
+  "totalStampsAvailable": "Total des timbres disponibles"
+}

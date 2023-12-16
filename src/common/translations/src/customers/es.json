@@ -1,0 +1,19 @@
+{
+  "orderSummary": "Resumen del pedido",
+  "datePaid": "Fecha de pago",
+  "redeemed": "Canjeado",
+  "price": "Precio",
+  "fullName": "Nombre completo",
+  "emailAddress": "Dirección de correo electrónico",
+  "phoneNumber": "Número de teléfono",
+  "lastUsed": "Último uso",
+  "totalDrinksPurchased": "Total de bebidas compradas",
+  "customerDetails": "Detalles del cliente",
+  "orderHistory": "Historial de pedidos",
+  "back": "Volver",
+  "name": "Nombre",
+  "totalSpent": "Total gastado",
+  "customers": "Clientes",
+  "stampHistory": "Historia de sellos",
+  "totalStampsAvailable": "Total de sellos disponibles"
+}

@@ -1,0 +1,9 @@
+{
+  "bankSettings": "Paramètres bancaires",
+  "transactionFees": "Explication des frais de transaction",
+  "transactionFeesDesc": "Notre objectif est de maintenir le prix aussi bas que possible. Nous ne prélevons qu'une petite commission de 4% par transaction. Stripe prélève également une petite commission de 1,4% + 20 p par transaction. Pour mettre cela en perspective, les frais totaux sont de 1,56 £ sur une transaction de 40 £. Tous les paiements sont traités via Stripe.",
+  "bankAccounts": "Vos comptes bancaires",
+  "removeBankAccount": "Supprimer le compte bancaire",
+  "editBankAccount": "Modifier vos coordonnées bancaires Stripe",
+  "selectBank": "Sélectionner une banque"
+}

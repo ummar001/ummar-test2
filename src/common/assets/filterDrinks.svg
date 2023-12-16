@@ -1,0 +1,15 @@
+<svg id="Page-1" xmlns="http://www.w3.org/2000/svg" width="27.786" height="41.323" viewBox="0 0 27.786 41.323">
+  <g id="_022---Cafetiere" data-name="022---Cafetiere" transform="translate(0)">
+    <path id="Shape" d="M7.125,21H2.187A1.425,1.425,0,0,0,1,21.635l-1,1.5,5.7,4.987Z" transform="translate(0 -6.038)" fill="#eedbc4"/>
+    <path id="Shape-2" data-name="Shape" d="M29.374,20V44.224a2.85,2.85,0,0,1-2.85,2.85H10.85A2.85,2.85,0,0,1,8,44.224V20Z" transform="translate(-2.3 -5.751)" fill="#fff1d8"/>
+    <path id="Shape-3" data-name="Shape" d="M29.374,29.712V43.962H8V29s1.261,1.9,6.17,2.116c.3.014.62.021.955.021C20.824,31.137,20.112,27.575,29.374,29.712Z" transform="translate(-2.3 -8.339)" fill="#cb8252"/>
+    <path id="Shape-4" data-name="Shape" d="M29.374,29.724V43.974H8V37.447a28.376,28.376,0,0,1,6.17-6.32c.3.014.62.021.955.021C20.824,31.149,20.112,27.587,29.374,29.724Z" transform="translate(-2.3 -8.351)" fill="#a56a43"/>
+    <path id="Shape-5" data-name="Shape" d="M29.374,50v2.85a2.85,2.85,0,0,1-2.85,2.85H10.85A2.85,2.85,0,0,1,8,52.85V50Z" transform="translate(-2.3 -14.377)" fill="#805333"/>
+    <path id="Shape-6" data-name="Shape" d="M22.712,10.412A.712.712,0,0,1,22,9.7V4.712a.712.712,0,0,1,1.425,0V9.7A.712.712,0,0,1,22.712,10.412Z" transform="translate(-6.326 -1.15)" fill="#7f8c8d"/>
+    <path id="Shape-7" data-name="Shape" d="M22.712,41.374A.794.794,0,0,1,22,40.519V20.855a.724.724,0,1,1,1.425,0V40.519A.794.794,0,0,1,22.712,41.374Z" transform="translate(-6.326 -5.751)" fill="#505050"/>
+    <path id="Shape-8" data-name="Shape" d="M29.8,16.7v.712a.688.688,0,0,1-.1.356.7.7,0,0,1-.613.356H7.712a.7.7,0,0,1-.613-.356.688.688,0,0,1-.1-.356V16.7A5.7,5.7,0,0,1,12.7,11H24.1A5.7,5.7,0,0,1,29.8,16.7Z" transform="translate(-2.013 -3.163)" fill="#f2e1cb"/>
+    <path id="Shape-9" data-name="Shape" d="M29.739,18.631a.7.7,0,0,1-.613.356H7.753a.7.7,0,0,1-.613-.356A5.7,5.7,0,0,1,12.74,14h11.4A5.7,5.7,0,0,1,29.739,18.631Z" transform="translate(-2.053 -4.026)" fill="#eedbc4"/>
+    <ellipse id="Oval" cx="3" cy="2" rx="3" ry="2" transform="translate(13.489)" fill="#505050"/>
+    <path id="Shape-10" data-name="Shape" d="M11.712,16.837H11.69a.7.7,0,0,1-.69-.7C11,15.4,11.6,14,13.85,14a.712.712,0,1,1,0,1.425c-1.311,0-1.417.611-1.425.733A.725.725,0,0,1,11.712,16.837Z" transform="translate(-3.163 -4.026)" fill="#ecf0f1"/>
+  </g>
+</svg>

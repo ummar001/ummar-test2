@@ -1,0 +1,10 @@
+{
+  "internalError": "Error interno.",
+  "successUpdated": "Actualización exitosa.",
+  "successDeleted": "Eliminación exitosa.",
+  "successCreated": "Creación exitosa.",
+  "successDuplicated": "Duplicación exitosa.",
+  "wrongCode": "Código incorrecto.",
+  "successAcepted": "Aceptación exitosa.",
+  "successRejected": "Rechazo exitoso."
+}

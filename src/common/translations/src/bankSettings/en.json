@@ -1,0 +1,9 @@
+{
+  "bankSettings": "Bank Settings",
+  "transactionFees": "Transaction fees explained",
+  "transactionFeesDesc": "Our objective is to keep the price as low as possible. We only take a small 4% fee per transaction. Stripe also takes a small 1.4% +20p per transaction. To put this in to perspective the total fee is £1.56 on a £40 transaction. All payments are processed via Stripe.",
+  "bankAccounts": "Your Bank Account(s)",
+  "removeBankAccount": "Remove bank account",
+  "editBankAccount": "Edit your Stripe bank details",
+  "selectBank": "Select bank"
+}

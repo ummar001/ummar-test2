@@ -1,0 +1,18 @@
+{
+  "multiStoreGroups": "Multi-store groups",
+  "createANewGroup": "Create a new group",
+  "noGroupSetup": "You currently don’t have any groups setup.",
+  "groupedStoresSharedLoyalty": "Grouped stores share loyalty systems",
+  "groupedStoresSharedLoyaltyDesc": "If you’ve got two or more stores setup and want your customers to be able to use the same loyalty systems between your stores then create a group.",
+  "stores": "Stores",
+  "editGroup": "Edit Group",
+  "createGroupShare": "Create groups of stores that share the same loyalty system",
+  "groupName": "Group name",
+  "groupNamePlaceholder": "E.g. All Stores",
+  "storeThatShare": "Stores that share loyalty system",
+  "storeThatSharePlaceholder": "Select a Store",
+  "yourCustomerWill": "Your customers will be able to use your loyalty system interchangeably between the following stores:",
+  "save": "Save",
+  "delete": "Delete",
+  "back": "Back"
+}

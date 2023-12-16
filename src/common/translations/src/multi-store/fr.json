@@ -1,0 +1,18 @@
+{
+  "multiStoreGroups": "Groupes de magasins",
+  "createANewGroup": "Créer un nouveau groupe",
+  "noGroupSetup": "Vous n'avez actuellement aucun groupe configuré.",
+  "groupedStoresSharedLoyalty": "Les magasins regroupés partagent des systèmes de fidélité",
+  "groupedStoresSharedLoyaltyDesc": "Si vous avez deux magasins ou plus configurés et que vous souhaitez que vos clients puissent utiliser les mêmes systèmes de fidélité entre vos magasins, créez un groupe.",
+  "stores": "Magasins",
+  "editGroup": "Modifier le groupe",
+  "createGroupShare": "Créez des groupes de magasins partageant le même système de fidélité",
+  "groupName": "Nom du groupe",
+  "groupNamePlaceholder": "Par exemple, Tous les magasins",
+  "storeThatShare": "Magasins partageant le système de fidélité",
+  "storeThatSharePlaceholder": "Sélectionnez un magasin",
+  "yourCustomerWill": "Vos clients pourront utiliser votre système de fidélité de manière interchangeable entre les magasins suivants :",
+  "save": "Enregistrer",
+  "delete": "Supprimer",
+  "back": "Retour"
+}

@@ -1,0 +1,18 @@
+{
+  "multiStoreGroups": "Grupos de tiendas múltiples",
+  "createANewGroup": "Crear un nuevo grupo",
+  "noGroupSetup": "Actualmente no tiene configurados grupos.",
+  "groupedStoresSharedLoyalty": "Las tiendas agrupadas comparten sistemas de lealtad",
+  "groupedStoresSharedLoyaltyDesc": "Si tiene configuradas dos o más tiendas y desea que sus clientes puedan utilizar los mismos sistemas de lealtad entre sus tiendas, cree un grupo.",
+  "stores": "Tiendas",
+  "editGroup": "Editar Grupo",
+  "createGroupShare": "Cree grupos de tiendas que comparten el mismo sistema de lealtad",
+  "groupName": "Nombre del grupo",
+  "groupNamePlaceholder": "Por ejemplo, Todas las tiendas",
+  "storeThatShare": "Tiendas que comparten el sistema de lealtad",
+  "storeThatSharePlaceholder": "Seleccione una tienda",
+  "yourCustomerWill": "Sus clientes podrán utilizar su sistema de lealtad de manera intercambiable entre las siguientes tiendas:",
+  "save": "Guardar",
+  "delete": "Eliminar",
+  "back": "Volver"
+}

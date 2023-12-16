@@ -1,0 +1,9 @@
+{
+  "Application Bug": "Error de la aplicación",
+  "Account Access Issue": "Problema de acceso a la cuenta",
+  "Feature Request": "Solicitud de función",
+  "Performance Concerns": "Preocupaciones de rendimiento",
+  "Integration Error": "Error de integración",
+  "Security Concern": "Preocupación de seguridad",
+  "Data Loss or Corruption": "Pérdida o corrupción de datos"
+}

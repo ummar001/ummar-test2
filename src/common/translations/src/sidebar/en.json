@@ -1,0 +1,21 @@
+{
+  "general": "General",
+  "redeem": "Redeem",
+  "manage": "Manage",
+  "stores": "Stores",
+  "drinks": "Drinks",
+  "loyaltyTools": "Loyalty Tools",
+  "bundles": "Bundles",
+  "bankSettings": "Banking/Payments",
+  "settings": "Settings",
+  "signOut": "Log Out",
+  "dashboard": "Dashboard",
+  "multiStore": "Multi-Store",
+  "sales": "Sales",
+  "redemptions": "Redemptions",
+  "customers": "Customers",
+  "stamps" : "Stamps",
+  "stampACard": "Stamp a card",
+  "billing": "Billing & Payments",
+  "stampsHistory": "Stamps History"
+}

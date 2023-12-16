@@ -1,0 +1,19 @@
+{
+  "orderSummary" : "Order Summary",
+  "datePaid": "Date Paid",
+  "redeemed": "Redeemed",
+  "price": "Price",
+  "fullName": "Full Name",
+  "emailAddress": "Email Address",
+  "phoneNumber": "Phone Number",
+  "lastUsed": "Last Used",
+  "totalDrinksPurchased": "Total Drinks purchased",
+  "customerDetails": "Customer Details",
+  "orderHistory": "Order History",
+  "back": "Back",
+  "name": "Name",
+  "totalSpent": "Total Spent",
+  "customers": "Customers",
+  "stampHistory": "Stamp History",
+  "totalStampsAvailable": "Total Stamps Available"
+}
